@@ -2,7 +2,7 @@ class Concurnas < Formula
   desc "Concurnas is an open source JVM programming language designed for building reliable, scalable, high performance concurrent, distributed and parallel systems"
   homepage "https://concurnas.com"
   url "https://github.com/Concurnas/Concurnas/releases/download/1.14.020/Concurnas-1.14.020.zip"
-  sha256 "721b12c6fa7d87cbf2763d2b7c3ffc0c5395d2cb1f3760e9ae33d6f8c650a064"
+  sha256 "e056bdd53c7d2809a438242e48d249382de6d3bd86ef067cb5da3c5ab631690f"
   version "1.14.020"
 
   bottle :unneeded
